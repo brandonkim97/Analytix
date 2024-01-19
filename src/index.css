@@ -1,0 +1,21 @@
+body {
+  background-color: #06070a;
+  /* font-family: 'Montserrat' */
+  height: 100%;
+}
+
+.bg-color {
+  background-color: #06070a;
+}
+
+.company-color {
+  background-color: #18181b;
+}
+
+.text-color {
+  color: rgb(161 161 170);
+}
+
+.fc-event {
+  display: contents;
+}
