@@ -25,7 +25,7 @@ const Header = ({ label }) => {
                 close 
                 handleOpen={handleOpen} 
             />
-            <div className="mt-2 z-20 bg-color">
+            <div className="z-20 bg-color max-xl:pt-4 max-xl:sticky max-xl:top-0">
                 <div className="flex flex-row items-center justify-between text-white pb-8">
                     <div className="text-2xl">
                         {label}
